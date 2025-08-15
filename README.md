@@ -4,6 +4,14 @@ Here’s a solid overview of what a college-level AI syllabus typically includes
 
 ---
 
+# CONTEXT
+
+* [Google Vertex Resources](./Google_Vertex_Resources.md)
+* [Google Vertex AI Platform](./Google_Vertex_AI_Platform.md)
+
+---
+  
+
 🧠 Core Subjects
 These build foundational knowledge in AI and its mathematical underpinnings:
 - Introduction to Artificial Intelligence
