@@ -2,6 +2,10 @@
 
 Here’s a solid overview of what a college-level AI syllabus typically includes in 2025, especially for undergraduate computer science or engineering majors:
 
+
+# Lectures 
+* [The Science of Judgment Evaluating Artificial Intelligence](./The_Science_of_Judgment_Evaluating_Artificial_Intelligence)
+
 ---
 
 # CONTEXT
