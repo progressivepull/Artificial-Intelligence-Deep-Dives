@@ -10,7 +10,7 @@
  
 * [ 1.5 Confusion Matrices ]( ./LESSON_1/1.5_Confusion_Matrices.md )
 
-    - [ 1.5.1 Data Labeling]( ./LESSON_1/1.5.1_Data_Labeling)
+    - [ 1.5.1 Data Labeling]( ./LESSON_1/1.5.1_Data_Labeling.md)
  
 * [ 1.6 ROC and AUC ]( ./LESSON_1/1.6_ROC_and_AUC.md )
  
