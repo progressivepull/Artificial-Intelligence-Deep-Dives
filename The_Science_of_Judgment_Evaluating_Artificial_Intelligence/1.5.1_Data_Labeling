@@ -1,0 +1,43 @@
+# Data Labeling
+
+In machine learning, labeled data is a group of raw data samples, such as images, text, or audio, that have been annotated with informative tags or a specific category. These labels provide context and act as the "correct answer" that a supervised learning model uses during its training phase.
+For example, to train a model to recognize different animals, a dataset would contain:
+
+* An image of a cat tagged with the label "cat".
+
+* An image of a dog tagged with the label "dog".
+
+
+## How data labeling works
+The process of creating labeled data, also known as data annotation, involves several steps:
+
+* **Collection**: Raw, unlabeled data is gathered from various sources, such as public datasets or internal databases.
+
+* **Labeling**: Human experts, also called annotators, assign the correct labels based on specific guidelines. Automated and semi-automated methods are also used, where algorithms suggest labels that humans then review.
+
+* **Quality assurance**: The labeled data is checked for accuracy and consistency to ensure high-quality training material.
+
+* **Ground truth**: The final, verified labeled dataset becomes the "ground truth"—a benchmark for a model to evaluate its own predictions.
+
+## Labeled vs. unlabeled data
+The key distinction between labeled and unlabeled data is its role in different types of machine learning.
+
+|             | Labeled Data                                         |	Unlabeled Data                                     |
+| ----------- | ---------------------------------------------------- | --------------------------------------------------- |
+| Used in...  | Supervised learning, where the model learns from examples with known correct outputs.     | Unsupervised learning, where the model analyzes raw data to find hidden patterns and structures.    |
+| Creation    | Requires significant human effort, making it more time-consuming and expensive to create. | Is easier to acquire, as it is just raw data without any prior annotation.  |
+| Output      | Used to train models for specific tasks like classification (e.g., spam detection) and regression (e.g., forecasting). | Used for exploratory analysis, such as clustering customer data to find market segments. |
+
+
+## Applications of labeled data
+Labeled data is foundational to many machine learning applications, including:
+
+* **Computer vision**: Image labels are used to train models for object detection, facial recognition, and image segmentation.
+
+* **Natural Language Processing (NLP)**: Text is labeled to train models for tasks like sentiment analysis, language translation, and chatbots.
+
+* **Audio processing**: Audio clips are transcribed and tagged to enable speech recognition and emotion detection in voice.
+
+* **Medical imaging**: Radiologists label medical scans to help AI models accurately detect diseases.
+
+ ## [Context](./../context.md)
