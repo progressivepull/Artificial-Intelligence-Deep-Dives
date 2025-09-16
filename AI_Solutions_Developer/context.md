@@ -10,7 +10,7 @@
  
 * [ 1.5 AI Developer vs Software Engineer ]( ./LESSON_1/1.5_AI_Developer_vs_Software_Engineer.md )
  
-* [ 1.6 AI Developer vs Data/AI Scientist ]( ./LESSON_1/1.6_AI_Developer_vs_Data/AI_Scientist.md )
+* [ 1.6 AI Developer vs Data AI Scientist ]( ./LESSON_1/1.6_AI_Developer_vs_Data AI_Scientist.md )
  
 * [ 1.7 AI Developer vs ML Engineer ]( ./LESSON_1/1.7_AI_Developer_vs_ML_Engineer.md )
  
