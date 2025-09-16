@@ -25,4 +25,6 @@
 * [ 1.12 AI Developer Role in Companies and Industries ]( ./LESSON_1/1.12_AI_Developer_Role_in_Companies_and_Industries.md )
  
 * [ 1.13 Future Opportunities for AI Developers ]( ./LESSON_1/1.13_Future_Opportunities_for_AI_Developers.md )
+
+* [ 1.14_Course_Summary ]( ./LESSON_1/1.14_Course_Summary.md)
  
