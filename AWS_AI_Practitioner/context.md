@@ -7,6 +7,7 @@
 * [1.5 Model Convergence Tables](./LESSON_1/1.5_Model_Convergence_Tables.md)
 * [1.6 Summarization Chatbot](./LESSON_1/1.6_Summarization_Chatbot.md)
 * [1.7 Automatic Named Entity Recognition System](./LESSON_1/1.7_Automatic_Named_Entity_Recognition_System.md)
+* [1.8 Recommendation Engines](./LESSON_1/1.8_Recommendation_Engines.md)
  
 
  
