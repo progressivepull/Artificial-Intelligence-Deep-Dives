@@ -5,6 +5,7 @@
 * [1.3 Requirements for AI Report with Stakeholder Considerations](./LESSON_1/1.3_Requirements_for_AI_Report.md)
 * [1.4 Partial Dependence Plots](./LESSON_1/1.4_Partial_Dependence_Plots.md)
 * [1.5 Model Convergence Tables](./LESSON_1/1.5_Model_Convergence_Tables.md)
+* [1.6 Summarization Chatbot](./LESSON_1/1.6_Summarization_Chatbot.md)
  
 
  
