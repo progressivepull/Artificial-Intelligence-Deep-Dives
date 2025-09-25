@@ -33,6 +33,22 @@
 * [4.1 Reinforcement Learning](./LESSON_1/4.1_Reinforcement_Learning.md)
 * [4.2 Reinforcement Learning from Human Feedback (RLHF)](./LESSON_1/4.2_Reinforcement_Learning_from_Human_Feedback.md)
 * [4.3 Multi-modal Embedding Model](./LESSON_1/4.3_Multi-modal_Embedding_Model.md)
+* [4.4 Google Vertex Resources](./LESSON_1/4.4_Google_Vertex_Resources.md)
+* [4.5 Google Vertex AI Platform](./LESSON_1/4.5_Google_Vertex_AI_Platform.md)
+* [4.6 Large Language Models](./LESSON_1/4.6_Large_Language_Models.md)
+* [4.7 Decision Trees](./LESSON_1/4.7_Decision_Trees.md)
+* [](./LESSON_1/ .md)
+* [](./LESSON_1/ .md)
+* [](./LESSON_1/ .md)
+* [](./LESSON_1/ .md)
+* [](./LESSON_1/ .md)
+* [](./LESSON_1/ .md)
+* [](./LESSON_1/ .md)
+* [](./LESSON_1/ .md)
+* [](./LESSON_1/ .md)
+* [](./LESSON_1/ .md)
+* [](./LESSON_1/ .md)
+
 
 
 
