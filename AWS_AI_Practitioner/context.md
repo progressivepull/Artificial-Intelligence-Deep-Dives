@@ -8,7 +8,6 @@
 * [1.6 Summarization Chatbot](./LESSON_1/1.6_Summarization_Chatbot.md)
 * [1.7 Automatic Named Entity Recognition System](./LESSON_1/1.7_Automatic_Named_Entity_Recognition_System.md)
 * [1.8 Recommendation Engines](./LESSON_1/1.8_Recommendation_Engines.md)
-* 
 * [1.9 Unsupervised Learning](./LESSON_1/1.9_Unsupervised_Learning.md)
 * [2.0 Supervised Learning](./LESSON_1/2.0_Supervised_Learning.md)
 * [2.1 Human-in-the-loop Validation](./LESSON_1/2.1_Human-in-the-loop_Validation.md)
