@@ -38,7 +38,7 @@
 * [4.6 Large Language Models](./LESSON_1/4.6_Large_Language_Models.md)
 * [4.7 Decision Trees](./LESSON_1/4.7_Decision_Trees.md)
 * [4.8 Linear Regression](./LESSON_1/4.8_Linear_Regression.md)
-* [](./LESSON_1
+* [4.9 Logistic Regression](./LESSON_1/4.9_Logistic_Regression.md)
 * [](./LESSON_1/ .md)
 * [](./LESSON_1/ .md)
 * [](./LESSON_1/ .md)
