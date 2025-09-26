@@ -37,8 +37,8 @@
 * [4.5 Google Vertex AI Platform](./LESSON_1/4.5_Google_Vertex_AI_Platform.md)
 * [4.6 Large Language Models](./LESSON_1/4.6_Large_Language_Models.md)
 * [4.7 Decision Trees](./LESSON_1/4.7_Decision_Trees.md)
-* [](./LESSON_1/ .md)
-* [](./LESSON_1/ .md)
+* [4.8 Linear Regression](./LESSON_1/4.8_Linear_Regression.md)
+* [](./LESSON_1
 * [](./LESSON_1/ .md)
 * [](./LESSON_1/ .md)
 * [](./LESSON_1/ .md)
