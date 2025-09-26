@@ -43,9 +43,9 @@
 * [5.1 R-squared Score](./LESSON_1/5.1_R-squared_Score.md)
 * [5.2 Model's Performance Accuracy](./LESSON_1/5.2_Models_Performance_Accuracy.md)
 * [5.3 Root Mean Squared Error (RMSE)](./LESSON_1/5.3_Root_Mean_Squared_Error.md)
-
 * [5.4 Model's Performance Learning Rate](./LESSON_1/5.4_Models_Performance_Learning_Rate.md)
 * [5.5 Amazon SageMaker](./LESSON_1/5.5_Amazon_SageMaker.md)
+  
 * [5.6 Real-time Inference](./LESSON_1/5.6_Real-time_Inference.md)
 * [5.7 Serverless Inference](./LESSON_1/5.7_Serverless_Inference.md)
 * [5.8 Asynchronous Inference](./LESSON_1/5.8_Asynchronous_Inference.md)
