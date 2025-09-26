@@ -41,7 +41,7 @@
 * [4.9 Logistic Regression](./LESSON_1/4.9_Logistic_Regression.md)
 * [5.0 Neural Networks](./LESSON_1/5.0_Neural_Networks.md)
 * [5.1 R-squared Score](./LESSON_1/5.1_R-squared_Score.md)
-* [](./LESSON_1/.md)
+* [5.2 Model's Performance Accuracy](./LESSON_1/5.2_Models_Performance_Accuracy.md)
 * [](./LESSON_1/.md)
 * [](./LESSON_1/.md)
 * [](./LESSON_1/.md)
