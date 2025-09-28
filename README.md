@@ -78,3 +78,16 @@ For deeper specialization:
 ---
 
 If you're planning to study or teach AI, I can help tailor a syllabus based on your goals—whether it's for enterprise software, CRM systems, or intelligent automation. Want to build one together?
+
+# References
+
+* [All Machine Learning Models Clearly Explained!](https://www.youtube.com/watch?v=0YdpwSYMY6I)
+* [AI Inference: The Secret to AI's Superpowers](https://www.youtube.com/watch?v=XtT5i0ZeHHE)
+* [The Math Needed for AI/ML (Complete Roadmap)](https://www.youtube.com/watch?v=YZOAiJmnNvc)
+* [Bayes theorem, the geometry of changing beliefs](https://www.youtube.com/watch?v=HZGCoVF3YvM)
+* [Probability Top 10 Must Knows (ultimate study guide)](https://www.youtube.com/watch?v=LgLgexX7iTs)
+* [The Map of Mathematics](https://www.youtube.com/watch?v=OmJ-4B-mS-Y)
+* [PyTorch for Deep Learning & Machine Learning – Full Course](https://www.youtube.com/watch?v=V_xro1bcAuA)
+* [Artificial Intelligence - Manage Engine - Insights ](https://insights.manageengine.com/artificial-intelligence/)
+* [Multimodal Machine Learning | CVPR 2022](https://www.youtube.com/playlist?list=PLki3HkfgNEsKPcpj5Vv2P98SRAT9wxIDa)
+* [CMU Multimodal Machine Learning, Fall 2023](https://www.youtube.com/playlist?list=PL-Fhd_vrvisMYs8A5j7sj8YW1wHhoJSmW)
