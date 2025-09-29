@@ -64,7 +64,7 @@
 
 * [7.0 Unsupervised Learning](./LESSON_1/7.0_Unsupervised_Learning.md)
 * [7.1 Supervised Learning](./LESSON_1/7.1_Supervised_Learning.md)
-* [7.2 Human-in-the-loop Validation](./LESSON_1/7.2_Human-in-the-loop_Validation.md)
+* [7.2 Human-in-the-loop (HITL) Validation](./LESSON_1/7.2_Human-in-the-loop_Validation.md)
 * [7.3 Amazon SageMaker Ground Truth Plus](./LESSON_1/7.3_Amazon_SageMaker_Ground_Truth_Plus.md)
 * [7.4 Amazon Bedrock Knowledge Base](./LESSON_1/7.4_Amazon_Bedrock_Knowledge_Base.md)
 * [7.5 Amazon Rekognition](./LESSON_1/7.5_Amazon_Rekognition.md)
