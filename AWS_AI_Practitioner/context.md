@@ -59,9 +59,6 @@
 * [6.7 Amazon Comprehend](./LESSON_1/6.7_Amazon_Comprehend.md)
 * [6.8 Text Embedding Model](./LESSON_1/6.8_Text_Embedding_Model.md)
 * [6.9 Vector Database](./LESSON_1/6.9_Vector_Database.md)
-
-# WORK AREA
-
 * [7.0 Unsupervised Learning](./LESSON_1/7.0_Unsupervised_Learning.md)
 * [7.1 Supervised Learning](./LESSON_1/7.1_Supervised_Learning.md)
 * [7.2 Human-in-the-loop (HITL) Validation](./LESSON_1/7.2_Human-in-the-loop_Validation.md)
