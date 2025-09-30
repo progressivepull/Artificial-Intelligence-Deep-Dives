@@ -91,3 +91,4 @@ If you're planning to study or teach AI, I can help tailor a syllabus based on y
 * [Artificial Intelligence - Manage Engine - Insights ](https://insights.manageengine.com/artificial-intelligence/)
 * [Multimodal Machine Learning | CVPR 2022](https://www.youtube.com/playlist?list=PLki3HkfgNEsKPcpj5Vv2P98SRAT9wxIDa)
 * [CMU Multimodal Machine Learning, Fall 2023](https://www.youtube.com/playlist?list=PL-Fhd_vrvisMYs8A5j7sj8YW1wHhoJSmW)
+* [Exam PRO maX](https://www.youtube.com/@ExamProMax/playlists)
