@@ -31,4 +31,8 @@
 * [ 1.14 Course Summary ]( ./LESSON_1/1.14_Course_Summary.md )
  
 * [ 1.15 Take Test ]( ./LESSON_1/1.15_Take_Test.md )
+
+* [ 1.16_Reflection_Reflect_on_what_you_have ]( ./LESSON_1/1.16_Reflection_Reflect_on_what_you_have.md )
+
+
  
