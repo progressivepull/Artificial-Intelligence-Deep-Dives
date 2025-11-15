@@ -12,4 +12,4 @@
 - **Transparency**: Can you see or understand how decisions were made?
 - **Explainability**: Can the outcome be broken down in a way that makes sense?
 
-> These principles aren’t just theoretical – they affect real people, every day.
+### These principles aren’t just theoretical – they affect real people, every day.
