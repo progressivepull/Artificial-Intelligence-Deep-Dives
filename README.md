@@ -76,8 +76,71 @@ For deeper specialization:
 | 6th      | Robotics, Capstone Project |
 
 ---
+# Run Python Program
 
-If you're planning to study or teach AI, I can help tailor a syllabus based on your goals—whether it's for enterprise software, CRM systems, or intelligent automation. Want to build one together?
+## 1. Create a New Conda Environment
+   
+``` bash
+$ conda create -n myenv python=3.10
+conda activate myenv
+# To activate this environment, use
+#
+#     $ conda activate myenv
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+```
+* **conda create** → makes a new isolated environment.
+
+* **-n myenv** → names the environment myenv.
+
+* ***python=3.10** → installs Python version 3.10 inside that environment. 👉 This ensures your project runs with the exact Python version you want, without interfering with other projects.
+
+## 2. Activate the Environment
+
+``` bash
+$ conda activate myenv
+```
+* Switches your shell into the **myenv** environment.
+
+* From now on, any Python or package commands apply only inside this environment.
+
+* You’ll see **(myenv)** appear at the start of your terminal prompt.
+
+## 3. Deactivate (Optional)
+``` bash
+conda deactivate
+```
+
+* Exits the environment and returns you to the base system.
+
+* Useful when you’re done working on that project.
+
+## 4. Install Required Packages
+
+``` bash
+$ conda install pandas numpy scikit-learn
+```
+
+* Installs **pandas** (data handling), **numpy** (numerical computing), and **scikit-learn** (machine learning).
+
+* These are the libraries your script needs to run.
+
+## 5. Run Your Python Program
+
+``` bash
+
+$ python ./readmitted_30_days.py 
+```
+
+* Executes the script readmitted_30_days.py located in the current folder.
+
+* The script will now run using:
+
+    - Python 3.10
+
+    - The libraries installed in myenv
 
 # References
 
