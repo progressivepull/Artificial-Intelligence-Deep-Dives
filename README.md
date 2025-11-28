@@ -141,6 +141,43 @@ $ python ./readmitted_30_days.py
     - Python 3.10
 
     - The libraries installed in myenv
+  
+## Check Your Existing Environments
+Run:
+
+``` bash
+conda env list
+```
+
+This shows all environments you have (e.g., base, myenv, etc.).
+
+## Install into the Correct Environment
+If you want to install ipykernel into your active environment, just run:
+
+``` bash
+conda install ipykernel --update-deps --force-reinstall
+```
+
+(no -n needed if the environment is already activated).
+
+If you want to install into a specific environment, use its actual name:
+
+``` bash
+conda install -n myenv ipykernel --update-deps --force-reinstall
+```
+
+## Launch directly in D drive
+Open Anaconda Prompt (or Command Prompt if you installed Jupyter via pip).
+
+Type:
+
+``` Code
+d:
+jupyter notebook
+```
+* The first line switches to your D drive.
+
+* The second line launches Jupyter Notebook, and it will open in the current directory (D:\).
 
 # References
 
