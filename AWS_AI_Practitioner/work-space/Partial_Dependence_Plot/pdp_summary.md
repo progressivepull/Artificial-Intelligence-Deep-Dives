@@ -52,3 +52,5 @@ across samples.
 PDPs are valuable interpretability tools but must be used with awareness
 of their assumptions and limitations. They help data scientists explain
 model logic---a crucial step for real-world implementation.
+
+[Partial Dependence Plots (Opening the Black Box) - ritvikmath - youtube](https://www.youtube.com/watch?v=uQQa3wQgG_s)
